@@ -1,2 +1,3 @@
 # odin-recipes
-Proyecto de Bootcamp de Odinj Project, en este caso es el primero proyecto de la seccion de HTML del foundation Course.
+![alt text](images/cover.webp)
+Bootcamp project of Odin Project, in this case it is the first project of the HTML section of the Foundation Course.
