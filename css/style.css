@@ -12,3 +12,8 @@ ul li {
     font-weight: bold;
     color: blueviolet;
 }
+
+h1 {
+    font-size: 44px;
+    color: rgb(64, 11, 225);
+}
